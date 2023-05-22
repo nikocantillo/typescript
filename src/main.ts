@@ -8,7 +8,9 @@ import './style.css'
 // import './topics/06-impor7t-export'
 // import './topics/07-ckasses'
 // import './topics/08-generic'
-import './topics/09-decorators'
+// import './topics/09-decorators'
+import './topics/10-optional-chainings'
+
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
  hello world  
